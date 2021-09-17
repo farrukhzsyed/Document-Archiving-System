@@ -1,0 +1,1 @@
+Microsoft Notepad is a simple text editor included with Microsoft Windows. While the program is limited in features, it is still useful in various contexts for viewing and editing plain text files.
